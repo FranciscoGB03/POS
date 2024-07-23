@@ -1,1 +1,2 @@
-./utils/archivosMysqlWin/*
+utils/archivosMysqlWin/mysql-8.4.1-winx64
+utils/archivosMysqlWin/mysql-connector-c++-8.4.0-winx64
